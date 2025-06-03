@@ -1,21 +1,31 @@
-# Weather App 
+# 🌦️ Weather App
 
-This is my **first project** — a simple and responsive Weather App built using vanilla JavaScript, HTML, and CSS. It fetches real-time weather data and hourly forecasts from the OpenWeatherMap API based on the city you enter.
-
----
-
-## Features
-
-- Current weather details including temperature, description, and icon
-- Hourly weather forecast for the next 24 hours (3-hour intervals)
-- Responsive and clean user interface with simple animations
-- Error handling for invalid city names or API issues
+This is my **first ever deployed web project**, a clean and simple **Weather Forecast App** that shows current and upcoming weather using the OpenWeatherMap API.
 
 ---
 
-## Tech Stack
+### 🚀 Live Demo  
+👉 [Click to view the live app](https://weather-ozo962h6f-anuj-sharmas-projects-8ef045ad.vercel.app)
 
-- JavaScript (ES6)
-- HTML5 & CSS3
-- OpenWeatherMap API for weather data
+---
 
+### 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- OpenWeatherMap API
+- GitHub + Vercel (for deployment)
+
+---
+
+### 📌 Features
+- Real-time weather based on latitude and longitude
+- 5-day forecast support
+- Responsive UI
+- Clean codebase (HTML + JS API integration)
+
+---
+
+### 🧑‍💻 About Me
+Hi, I'm **Anuj Sharma**, a BTech CSE student learning full stack development.  
+This is my first live-deployed project!
+
+---
